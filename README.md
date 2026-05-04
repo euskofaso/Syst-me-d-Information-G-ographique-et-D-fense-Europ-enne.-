@@ -1,7 +1,7 @@
 # Structuration territoriale et analyse spatiale des bénéficiaires du Fonds européen de défense (EDF) à l'échelle NUTS-3
 
 > **Article de recherche individuel** — HEC Montréal  
-> Cours de Thierry Warin · Matricule 11231523
+> Cours de Thierry Warin · 
 
 ---
 
